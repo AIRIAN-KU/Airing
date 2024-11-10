@@ -1,2 +1,4 @@
 Faker==30.8.2
+matplotlib==3.9.2
+numpy==2.1.3
 pandas==2.2.3
